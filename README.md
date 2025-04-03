@@ -1,6 +1,6 @@
 # Hey, I'm Dan 👋
 
-🚿 Sales & Service Rep @ **ChemAqua (NCH)** — world leader in water treatment  
+🚿 Sales & Service Rep @ **ChemAqua (NCH)** — leader in complete water treatment solutions
 🧠 Building real-world solutions with code, from **treatment insights** to **adaptive AI**  
 🐧 Dev environment: WSL2 + VS Code + Docker + AWS Lambda
 
@@ -9,6 +9,7 @@
 ### ⚙️ What I’m Working On
 
 🔹 **LocaleLingo** – A tone-aware phrase engine for travelers & learners  
+🔹 **ControllerSim** – A production-ready controller simulator for use in water treatment of cooling towers and boilers 
 🔹 **Mini-StrathosAI** – My own local LLM-based microservice for tone adaptation  
 🔹 **StartTap** – An adaptive learning platform to teach by solving real-world problems
 
