@@ -1,6 +1,6 @@
 # Hey, I'm Dan 👋
 
-🚿 Sales & Service Rep @ **ChemAqua (NCH)** — leader in complete water treatment solutions
+🚿 Account Manager @ **Pace Solutions** — leader in complete water treatment solutions
 🧠 Building real-world solutions with code, from **treatment insights** to **adaptive AI**  
 🐧 Dev environment: WSL2 + VS Code + Docker + AWS Lambda
 
@@ -8,6 +8,8 @@
 
 ### ⚙️ What I’m Working On
 
+🔹 **Opsnap** – A scenario-based training platform
+🔹 **Opsintel** – A guided operational intelligence platform   
 🔹 **LocaleLingo** – A tone-aware phrase engine for travelers & learners  
 🔹 **ControllerSim** – A production-ready controller simulator for use in water treatment of cooling towers and boilers 
 🔹 **Mini-StrathosAI** – My own local LLM-based microservice for tone adaptation  
@@ -26,6 +28,7 @@
 
 ### 📌 Goals
 
+- Build scenario-based training platform
 - Build faster solutions with adaptive microservices  
 - Help others learn to code by solving real-world pain  
 - Bring AI to industries like **water treatment**, **education**, and **local production**
